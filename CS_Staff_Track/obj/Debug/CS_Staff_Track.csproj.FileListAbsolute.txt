@@ -1,0 +1,12 @@
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Staff_Track\CS_Staff_Track\bin\Debug\CS_Staff_Track.exe.config
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Staff_Track\CS_Staff_Track\bin\Debug\CS_Staff_Track.exe
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Staff_Track\CS_Staff_Track\bin\Debug\CS_Staff_Track.pdb
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Staff_Track\CS_Staff_Track\obj\Debug\CS_Staff_Track.csprojAssemblyReference.cache
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Staff_Track\CS_Staff_Track\obj\Debug\CS_Staff_Track.Form1.resources
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Staff_Track\CS_Staff_Track\obj\Debug\CS_Staff_Track.Properties.Resources.resources
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Staff_Track\CS_Staff_Track\obj\Debug\CS_Staff_Track.csproj.GenerateResource.cache
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Staff_Track\CS_Staff_Track\obj\Debug\CS_Staff_Track.csproj.CoreCompileInputs.cache
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Staff_Track\CS_Staff_Track\obj\Debug\CS_Staff_Track.exe
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Staff_Track\CS_Staff_Track\obj\Debug\CS_Staff_Track.pdb
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Staff_Track\CS_Staff_Track\obj\Debug\CS_Staff_Track.Form2.resources
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Staff_Track\CS_Staff_Track\obj\Debug\CS_Staff_Track.Form3.resources
